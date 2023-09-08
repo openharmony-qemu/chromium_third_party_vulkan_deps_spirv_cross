@@ -1,10 +1,18 @@
 [
     {
         "Name": "chromium_third_party_vulkan_deps_spirv_cross",                   # 上游开源软件名全称
-        "License": ,    "Khronos Group License"   # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE"     # 许可证所在文件路径
+        "License":"Khronos Group License",  # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE",     # 许可证所在文件路径
         "Version Number": "53d94a982e1d654515b44db5391de37f85489204",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Cross@53d94a982e1d654515b44db5391de37f85489204",   # 上游软件包发布地址
         "Description": "第三方软件vulkan-deps/spirv-cross"           # 开源软件功能描述
-    }
+    },
+    {
+        "Name": "chromium_third_party_vulkan_deps_spirv_cross",                   # 上游开源软件名全称
+        "License":"SPDX:CC-BY-4.0",   # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE",    # 许可证所在文件路径
+        "Version Number": "53d94a982e1d654515b44db5391de37f85489204",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Cross@53d94a982e1d654515b44db5391de37f85489204",   # 上游软件包发布地址
+        "Description": "第三方软件vulkan-deps/spirv-cross"           # 开源软件功能描述
+    },
 ]
