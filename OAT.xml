@@ -71,13 +71,13 @@ used to filter file path.
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
                     <filteritem type="filepath" name="reference/shaders/comp/generate_height.comp"
-                    desc="chrom原生文件无license" />
+                    desc="chromium原生文件无license" />
                     <filteritem type="filepath" name="LICENSES/CC-BY-4.0.txt"
-                    desc="chrom原生文件无license" />
+                    desc="chromium原生文件无license" />
                     <filteritem type="filepath" name="shaders/comp/generate_height.comp"
-                    desc="chrom原生文件无license" />
+                    desc="chromium原生文件无license" />
                     <filteritem type="filepath" name="reference/opt/shaders/comp/generate_height.comp"
-                    desc="chrom原生文件无license" />
+                    desc="chromium原生文件无license" />
             </filefilter>
 
             <filefilter name="defaultFilter">
@@ -86,7 +86,7 @@ used to filter file path.
             </filefilter>
             <filefilter name="binaryFileTypePolicyFilter">
                 <filteritem type="filepath" name=".*spv"
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
             </filefilter>
         </filefilterlist>
         <licensematcherlist>
