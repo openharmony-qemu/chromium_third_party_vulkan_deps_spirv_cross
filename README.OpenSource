@@ -1,11 +1,11 @@
 [
     {
-        "Name": "SPIRV-Cross",                   # 上游开源软件名全称
-        "License":"Apache-2.0",  # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE",     # 许可证所在文件路径
+        "Name": "SPIRV-Cross",                   
+        "License":"Apache-2.0",  
+        "License File": "LICENSE",    
         "Version Number": "53d94a982e1d654515b44db5391de37f85489204",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Cross@53d94a982e1d654515b44db5391de37f85489204",   # 上游软件包发布地址
-        "Description": "第三方软件vulkan-deps/spirv-cross"           # 开源软件功能描述
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Cross@53d94a982e1d654515b44db5391de37f85489204",   
+        "Description": "第三方软件vulkan-deps/spirv-cross"          
     }
 ]
