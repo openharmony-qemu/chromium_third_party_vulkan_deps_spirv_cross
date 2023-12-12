@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "SPIRV-Cross",                   
+        "License":"Apache-2.0",  
+        "License File": "LICENSE",    
+        "Version Number": "53d94a982e1d654515b44db5391de37f85489204",
+        "Owner": "jinchanggang@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Cross@53d94a982e1d654515b44db5391de37f85489204",   
+        "Description": "第三方软件vulkan-deps/spirv-cross"          
+    }
+]
